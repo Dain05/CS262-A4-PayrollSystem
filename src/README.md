@@ -23,9 +23,15 @@ https://github.com/Dain05/CS262-A4-PayrollSystem
 
 ## Project Overview
 
-This project implements a Payroll Management System using Java and Swing GUI.
+This project is a Payroll Management System built using Java.  
+It handles different types of employees along with invoices, and calculates payments using object-oriented programming concepts.
 
-### Features
+A simple GUI was created using Java Swing so users can view records, add new ones, remove them, and generate pay stubs.
+
+---
+
+## Features
+
 - Supports multiple employee types:
   - Salaried Employee
   - Hourly Employee
@@ -33,56 +39,60 @@ This project implements a Payroll Management System using Java and Swing GUI.
   - Base Plus Commission Employee
 - Supports Invoice processing (treated as Payable)
 - Uses interface-based design (`Payable`)
-- Demonstrates polymorphism and inheritance
-- GUI interface built with Java Swing
-- Add and remove records dynamically
+- Demonstrates inheritance and polymorphism
+- GUI interface built using Java Swing
+- Add and remove records from the system
 - Generates pay stubs
-- Saves and loads data using file handling
-- Formats payment output to 2 decimal places
+- Saves and loads data from file
+- Payment values formatted to 2 decimal places
 
 ---
 
-## System Components
+## System Structure
 
 ### Core Classes
-- Employee (Base class)
+- Employee (base class)
 - SalariedEmployee
 - HourlyEmployee
 - CommissionEmployee
 - BasePlusCommissionEmployee
 
 ### Interface
-- Payable (implemented by employees and invoices)
+- Payable (implemented by employees and invoice)
 
 ### Other Classes
-- Invoice (implements Payable)
-- PayrollSystem (main execution)
+- Invoice
+- PayrollSystem (main class)
 - PayrollGUI (user interface)
-- PayrollDataManager (file handling)
+- PayrollDataManager (handles file saving/loading)
 - InvalidSalaryException (custom exception)
 
 ---
 
-## Key Concepts Demonstrated
+## Key Concepts Used
+
 - Object-Oriented Programming (OOP)
-- Inheritance and Polymorphism
+- Inheritance
+- Polymorphism
 - Interfaces
 - Exception Handling
-- File Handling (Read/Write)
+- File Handling (read/write)
 - Java Swing GUI
 - Event Handling
 
 ---
 
 ## How to Run
-Run:
-- `PayrollGUI.java` for GUI interface  
-OR  
-- `PayrollSystem.java` for console execution  
+
+Run one of the following:
+
+- `PayrollGUI.java` → to launch the graphical interface  
+- `PayrollSystem.java` → to run the console version  
 
 ---
 
 ## Output
-- Displays employee payments
+
+- Displays employee and invoice payments
 - Generates pay stubs
-- Saves data to file
+- Saves data to file (`paystub.txt` and data file)
