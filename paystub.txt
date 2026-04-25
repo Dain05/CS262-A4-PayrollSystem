@@ -1,0 +1,100 @@
+Name: Dain Thorpe
+Payment Amount: $50000.00
+Date: 2026-04-23
+----------------------------------
+Name: Joan Johnson-Brown
+Payment Amount: $47500.00
+Date: 2026-04-23
+----------------------------------
+Name: Shanique Wisdom
+Payment Amount: $30000.00
+Date: 2026-04-23
+----------------------------------
+Name: Pasha Pinnock
+Payment Amount: $31000.00
+Date: 2026-04-23
+----------------------------------
+Invoice: Services - Dante Graham
+Payment Amount: $75000.00
+Date: 2026-04-23
+----------------------------------
+Name: Dain Thorpe
+Payment Amount: $50000.00
+Date: 2026-04-23
+----------------------------------
+Name: Joan Johnson-Brown
+Payment Amount: $61500.00
+Date: 2026-04-23
+----------------------------------
+Name: Shanique Wisdom
+Payment Amount: $30000.00
+Date: 2026-04-23
+----------------------------------
+Name: Pasha Pinnock
+Payment Amount: $35000.00
+Date: 2026-04-23
+----------------------------------
+Invoice: Services - Dante Graham
+Payment Amount: $75000.00
+Date: 2026-04-23
+----------------------------------
+Name: Dain Thorpe
+Payment Amount: $50000.00
+Date: 2026-04-23
+----------------------------------
+Name: Joan Johnson-Brown
+Payment Amount: $61500.00
+Date: 2026-04-23
+----------------------------------
+Name: Shanique Wisdom
+Payment Amount: $30000.00
+Date: 2026-04-23
+----------------------------------
+Name: Pasha Pinnock
+Payment Amount: $35000.00
+Date: 2026-04-23
+----------------------------------
+Invoice: Services - Dante Graham
+Payment Amount: $75000.00
+Date: 2026-04-23
+----------------------------------
+Name: Dain Thorpe
+Payment Amount: $50000.00
+Date: 2026-04-25
+----------------------------------
+Name: Joan Johnson-Brown
+Payment Amount: $61500.00
+Date: 2026-04-25
+----------------------------------
+Name: Shanique Wisdom
+Payment Amount: $30000.00
+Date: 2026-04-25
+----------------------------------
+Name: Pasha Pinnock
+Payment Amount: $35000.00
+Date: 2026-04-25
+----------------------------------
+Invoice: Dante Graham
+Payment Amount: $75000.00
+Date: 2026-04-25
+----------------------------------
+Name: Dain Thorpe
+Payment Amount: $50000.00
+Date: 2026-04-25
+----------------------------------
+Name: Joan Johnson-Brown
+Payment Amount: $61500.00
+Date: 2026-04-25
+----------------------------------
+Name: Shanique Wisdom
+Payment Amount: $30000.00
+Date: 2026-04-25
+----------------------------------
+Name: Pasha Pinnock
+Payment Amount: $35000.00
+Date: 2026-04-25
+----------------------------------
+Invoice: Dante Graham
+Payment Amount: $75000.00
+Date: 2026-04-25
+----------------------------------
