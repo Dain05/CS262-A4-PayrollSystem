@@ -1,0 +1,27 @@
+[
+  {
+    "type": "SalariedEmployee",
+    "name": "Dain Thorpe",
+    "paymentAmount": 50000.00
+  },
+  {
+    "type": "HourlyEmployee",
+    "name": "Joan Johnson-Brown",
+    "paymentAmount": 61500.00
+  },
+  {
+    "type": "CommissionEmployee",
+    "name": "Shanique Wisdom",
+    "paymentAmount": 30000.00
+  },
+  {
+    "type": "BasePlusCommissionEmployee",
+    "name": "Pasha Pinnock",
+    "paymentAmount": 35000.00
+  },
+  {
+    "type": "Invoice",
+    "name": "Dante Graham",
+    "paymentAmount": 75000.00
+  }
+]

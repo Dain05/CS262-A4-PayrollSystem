@@ -69,9 +69,11 @@ public class PayrollGUI extends JFrame {
                     p.writeToFile();
                 }
 
-                JOptionPane.showMessageDialog(this, "Pay stubs generated successfully.");
+                PayrollDataManager.exportToJSON(records);
+
+                JOptionPane.showMessageDialog(this, "Pay stubs and JSON file generated successfully.");
             } catch (Exception ex) {
-                JOptionPane.showMessageDialog(this, "Error generating pay stubs.");
+                JOptionPane.showMessageDialog(this, "Error generating files.");
             }
         });
 
